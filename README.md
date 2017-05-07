@@ -6,5 +6,4 @@ a boilerplate for nodejs development
 * bootstrap
 * webpack
 
-npm run start  for development
-npm run deploy for deploy
+npm run start  for development,npm run deploy for deploy
