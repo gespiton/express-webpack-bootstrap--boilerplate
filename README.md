@@ -1,9 +1,12 @@
 # express-webpack-bootstrap--boilerplate
 a boilerplate for nodejs development
+## integrate
 * express
 * sass
 * pug
 * bootstrap
 * webpack
 
-npm run start  for development,npm run deploy for deploy
+## usage
+* npm run start  : development
+* npm run deploy : deploy
