@@ -5,5 +5,6 @@ a boilerplate for nodejs development
 * pug
 * bootstrap
 * webpack
+
 npm run start  for development
 npm run deploy for deploy
